@@ -1,0 +1,17 @@
+.font-one {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.navbar-text {
+    font-size: 1.2em;
+    font-weight: bold;
+    color: #000000;
+}
+
+.narvar-bg{
+    background-color: #FFCD29;
+}
+
+.colapse-bg{
+    background-color: #ffffff;
+}
