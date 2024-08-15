@@ -59,3 +59,13 @@
   .btn-uno {
     background-color: #FFCD29;
   }
+
+  .card-img-top {
+    width: 100%;
+    height: 160px;
+    object-fit: cover;
+  }
+
+  .card-text {
+    text-align: center;
+  }
